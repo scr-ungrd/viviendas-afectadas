@@ -4,7 +4,7 @@ title: "Página Legal"
 
 <!-- TODO: completar título exacto, palabras clave y DOI propios de este libro -->
 
-Viviendas Afectadas. Bogotá, D.C., Unidad Nacional para la Gestión del Riesgo de Desastres, 2026. DOI: <PENDIENTE>
+Viviendas Afectadas. Bogotá, D.C., Unidad Nacional para la Gestión del Riesgo de Desastres, 2026. 
 1. Viviendas afectadas—Valle del Cauca 2. Gestión del riesgo de desastres—Colombia 3. Evaluación de daños—vivienda 4. Ordenamiento territorial—gestión del riesgo municipal
 
 ------------------------------------------------------------------------
@@ -17,17 +17,9 @@ Unidad Nacional para la Gestión del Riesgo de Desastres (UNGRD)
 
 ------------------------------------------------------------------------
 
-**Subdirección para el Conocimiento del Riesgo**
-
-------------------------------------------------------------------------
-
-Coordinación editorial \| Mauricio Romero Torres
-
-DOI: <PENDIENTE>
-
 Copyright: © Unidad Nacional para la Gestión del Riesgo de Desastres, 2026. Bogotá, Colombia
 
-**Citación sugerida**: Unidad Nacional para la Gestión del Riesgo de Desastres, Subdirección para el Conocimiento del Riesgo. 2026. *Viviendas Afectadas.* Unidad Nacional para la Gestión del Riesgo de Desastres. Bogotá, D.C., Colombia. <PENDIENTE>
+**Citación sugerida**: Unidad Nacional para la Gestión del Riesgo de Desastres, Subdirección para el Conocimiento del Riesgo. 2026. *Viviendas Afectadas.* Unidad Nacional para la Gestión del Riesgo de Desastres. Bogotá, D.C., Colombia.
 
 Todos los derechos reservados. Excepto si se señala otra cosa, la licencia del ítem se describe como Atribución. NoComercial-SinDerivadas 2.5 Colombia Distribución gratuita – versión digital
 :::

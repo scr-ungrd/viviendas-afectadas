@@ -261,7 +261,7 @@ Plot.plot({
       x: "porcentaje_afectadas_pct",
       y: "municipio",
       sort: { y: "-x" },
-      fill: "#223764",
+      fill: d => color_pct(d.porcentaje_afectadas_pct),
       tip: true
     }),
     Plot.ruleX([0])
