@@ -1,0 +1,68 @@
+project:
+  type: book
+  output-dir: _book
+  resources:
+    - data/viviendas_afectadas_valle.csv
+    - data/colombia_moderate.topojson
+
+book:
+  title: "Viviendas Afectadas"
+  date: "2026-08-14"
+
+  downloads: [pdf]
+  site-url: https://scr-ungrd.github.io/viviendas-afectadas
+  favicon: media/favicon.png
+  sidebar:
+    tools:
+      - icon: diagram-3-fill
+        href: "https://scr-ungrd.github.io/hub/"
+        aria-label: "HUB SCR"
+        target: _blank
+        rel: noopener noreferrer
+      - icon: github
+        href: "https://github.com/scr-ungrd/viviendas-afectadas"
+        aria-label: "Repositorio en GitHub"
+        target: _blank
+        rel: noopener noreferrer
+      - icon: translate
+        href: "https://translate.google.com/translate?sl=es&tl=en&u=https://scr-ungrd.github.io/viviendas-afectadas/"
+        aria-label: "Translate to English"
+        target: _blank
+        rel: noopener noreferrer
+    style: floating
+    collapse-level: 1
+  chapters:
+    - index.qmd
+    - Pagina-legal.qmd
+    - text: "1. Viviendas afectadas"
+      href: 01-viviendas-afectadas.qmd
+    - text: "2. Ruta de evaluación"
+      href: 02-ruta-evaluacion.qmd
+
+lang: es
+
+crossref:
+  fig-prefix: "Figura"
+  tbl-prefix: "Tabla"
+  chapters: true
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    number-sections: false
+    reference-location: block
+    logo: "media/UNGRD-Horizontal.png"
+    css:
+      - custom.css
+    include-in-header:
+      - caption-bold.html
+      - text: |
+          <meta name="citation_book_title" content="Viviendas Afectadas">
+          <meta name="citation_publisher" content="Unidad Nacional para la Gestión del Riesgo de Desastres - UNGRD">
+          <meta name="citation_publication_date" content="2026/08/14">
+          <meta name="citation_online_date" content="2026/08/14">
+          <meta name="citation_language" content="es">
+          <meta name="citation_pdf_url" content="https://scr-ungrd.github.io/viviendas-afectadas/Viviendas_Afectadas.pdf">
+          <meta name="robots" content="index, follow">
+    html-math-method: katex

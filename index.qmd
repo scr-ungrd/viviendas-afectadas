@@ -1,0 +1,42 @@
+# Inicio
+
+Bienvenidos al libro digital **Viviendas Afectadas**. Este recurso ha sido diseñado por la Unidad Nacional para la Gestión del Riesgo de Desastres (UNGRD) para presentar el análisis de viviendas afectadas por municipio y la ruta de evaluación en campo.
+
+<!-- TODO: reemplazar por una portada propia con {.ungrd-cover-float}, siguiendo el ejemplo de otros libros SCR -->
+
+::: {.clearfix}
+:::
+
+::: {.d-flex .justify-content-start .mb-3}
+[Volver al Catálogo de Publicaciones SCR](https://scr-ungrd.github.io/catalogo-publicaciones/){.ungrd-btn}
+:::
+
+------------------------------------------------------------------------
+
+::::: {.ungrd-cards-grid}
+
+::: {.ungrd-card}
+::: {.ungrd-card-header}
+[1: Viviendas afectadas](01-viviendas-afectadas.html)
+:::
+::: {.ungrd-card-body}
+Tabla y mapa interactivo del porcentaje de viviendas afectadas por municipio en el Valle del Cauca.
+:::
+:::
+
+::: {.ungrd-card}
+::: {.ungrd-card-header}
+[2: Ruta de evaluación](02-ruta-evaluacion.html)
+:::
+::: {.ungrd-card-body}
+Mapa y cronograma de la ruta de evaluación en campo, de Bogotá a Cali.
+:::
+:::
+
+:::::
+
+------------------------------------------------------------------------
+
+## Navegación
+
+Utiliza la navegación lateral o las tarjetas superiores para explorar los capítulos de este libro.

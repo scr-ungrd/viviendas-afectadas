@@ -1,0 +1,23 @@
+# Entorno virtual y dependencias de Python
+venv/
+__pycache__/
+separador.py
+requirements.txt
+
+# Documentos originales y salidas intermedias (regenerables)
+data/*
+# ...excepto los scripts (reproducibilidad), el CSV de viviendas afectadas
+# (referenciado como descarga desde 01-viviendas-afectadas.qmd) y el
+# topojson de límites municipales (usado por el mapa D3/OJS)
+!data/*.py
+!data/*.sh
+!data/viviendas_afectadas_valle.csv
+!data/colombia_moderate.topojson
+
+# Archivos y carpetas generadas automáticamente por Quarto
+_book/
+.quarto/
+
+/.quarto/
+
+**/*.quarto_ipynb
