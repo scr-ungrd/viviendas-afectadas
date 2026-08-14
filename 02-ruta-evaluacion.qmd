@@ -2,7 +2,7 @@
 
 Recorrido terrestre de ocho días entre Bogotá y Cali, cubriendo los municipios del norte del Valle del Cauca.
 
-![Ruta de evaluación en campo: Bogotá – Cali](media/02-ruta-evaluacion/ruta_evaluacion.png){#fig-ruta-evaluacion}
+![Ruta de evaluación en campo: Bogotá – Cali. [Abrir en Google Maps](https://maps.app.goo.gl/jvosbfadpWZmckoD6)](media/02-ruta-evaluacion/ruta_evaluacion.png){#fig-ruta-evaluacion}
 
 ## Cronograma
 
