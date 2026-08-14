@@ -1,6 +1,6 @@
 # Ruta de evaluación {.unnumbered}
 
-La evaluación en campo de las viviendas afectadas se realizó mediante un recorrido terrestre de ocho días entre Bogotá y Cali, cubriendo los municipios del norte del Valle del Cauca incluidos en el análisis del capítulo anterior.
+Recorrido terrestre de ocho días entre Bogotá y Cali, cubriendo los municipios del norte del Valle del Cauca.
 
 ![Ruta de evaluación en campo: Bogotá – Cali](media/02-ruta-evaluacion/ruta_evaluacion.png){#fig-ruta-evaluacion}
 
