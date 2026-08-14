@@ -7,10 +7,6 @@ Bienvenidos al libro digital **Viviendas Afectadas**. Este recurso ha sido dise√
 ::: {.clearfix}
 :::
 
-::: {.d-flex .justify-content-start .mb-3}
-[Volver al Cat√°logo de Publicaciones SCR](https://scr-ungrd.github.io/catalogo-publicaciones/){.ungrd-btn}
-:::
-
 ------------------------------------------------------------------------
 
 ::::: {.ungrd-cards-grid}
